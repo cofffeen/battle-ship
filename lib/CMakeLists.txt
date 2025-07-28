@@ -1,0 +1,1 @@
+add_library(battle_ship_library game.cpp game.h strategy.cpp strategy.h board.cpp board.h coordinates.cpp coordinates.h split.cpp split.h)
